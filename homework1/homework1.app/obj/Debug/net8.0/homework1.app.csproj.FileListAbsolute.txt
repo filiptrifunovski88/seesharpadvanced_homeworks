@@ -1,0 +1,15 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\bin\Debug\net8.0\homework1.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\bin\Debug\net8.0\homework1.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\bin\Debug\net8.0\homework1.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\bin\Debug\net8.0\homework1.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\bin\Debug\net8.0\homework1.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.sourcelink.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\refint\homework1.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\homework1.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework1\homework1.app\obj\Debug\net8.0\ref\homework1.app.dll
