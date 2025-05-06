@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38541F9D-9B7E-45BE-9DDF-F7A0F5553FAC}|..\\homework3.app\\homework3.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework3\\homework3.app\\models\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Airplane.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\Airplane.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Airplane.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:34:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\Boat.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Boat.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:34:38.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotorBike.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\MotorBike.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\MotorBike.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\MotorBike.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\MotorBike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:34:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\Car.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Car.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:34:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\Vehicle.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:32:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\UserDatabase.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\UserDatabase.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\UserDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:11:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Models\\User.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Models\\User.cs",
+              "RelativeToolTip": "..\\homework3.app\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:10:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Program.cs",
+              "RelativeDocumentMoniker": "..\\homework3.app\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework3\\homework3.app\\Program.cs",
+              "RelativeToolTip": "..\\homework3.app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:10:01.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
