@@ -1,0 +1,15 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\bin\Debug\net8.0\homework7.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\bin\Debug\net8.0\homework7.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\bin\Debug\net8.0\homework7.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\bin\Debug\net8.0\homework7.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\bin\Debug\net8.0\homework7.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.sourcelink.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\refint\homework7.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\homework7.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharpadvanced_homeworks\homework7\homework7.sln\homework7.app\obj\Debug\net8.0\ref\homework7.app.dll
