@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\models\\carsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\models\\carextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\models\\modelandweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F7CBF-DF67-4A88-939A-9F0BA815907D}|..\\homework5.app\\homework5.app.csproj|d:\\qinshift\\proekti\\github\\seesharpadvanced_homeworks\\homework5\\homework5.app\\models\\modelandhorsepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelAndWeight.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\ModelAndWeight.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Models\\ModelAndWeight.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\ModelAndWeight.cs",
+              "RelativeToolTip": "..\\homework5.app\\Models\\ModelAndWeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:22:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelAndHorsePower.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\ModelAndHorsePower.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Models\\ModelAndHorsePower.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\ModelAndHorsePower.cs",
+              "RelativeToolTip": "..\\homework5.app\\Models\\ModelAndHorsePower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:34:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarExtensions.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\CarExtensions.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Models\\CarExtensions.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\CarExtensions.cs",
+              "RelativeToolTip": "..\\homework5.app\\Models\\CarExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:17:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsData.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\CarsData.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Models\\CarsData.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\CarsData.cs",
+              "RelativeToolTip": "..\\homework5.app\\Models\\CarsData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwK4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:05:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Models\\Car.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Models\\Car.cs",
+              "RelativeToolTip": "..\\homework5.app\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:04:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Program.cs",
+              "RelativeDocumentMoniker": "..\\homework5.app\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharpadvanced_homeworks\\homework5\\homework5.app\\Program.cs",
+              "RelativeToolTip": "..\\homework5.app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:03:05.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
